@@ -34,7 +34,7 @@ dependencies = [
     "supervision",
     "openmim",
     "mmdet @ git+https://github.com/open-mmlab/mmdetection.git@v3.3.0",
-    "mmcv==2.1.0",
+    "mmcv==2.2.0",
     "mmengine",
     "nltk",
     "h5py",
